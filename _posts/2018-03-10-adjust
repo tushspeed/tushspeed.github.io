@@ -1,0 +1,10 @@
+---
+layout: Adjust tracking link
+title: Test deeplinking in adjust
+---
+
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+[adjust_link](https://efse.adj.st/packageintro?utm_source=email&amputm_medium=app&amputm_campaign=_qa_en_doha&amputm_content=qa_doha_tactical_eng_email_all_en_20170808_packages&amputm_term=cr1_20170808&ampadj_t=n64809_fb2yoc&ampadj_campaign=_qa_en_doha&ampadj_adgroup=qa_doha_tactical_eng_email_all_en_20170808_packages&ampadj_creative=cr1_20170808&ampadj_deeplink=packageintro?utm_source=email&amputm_medium=app&amputm_campaign=_qa_en_doha&amputm_content=qa_doha_tactical_eng_email_all_en_20170808_packages&amputm_term=cr1_20170808&ampadj_fallback=http%3A%2F%2Fwww.careem.com%2Fsignup%2F%3Futm_source%3Demail%26utm_medium%3Dapp%26utm_campaign%3D_qa_en_doha%26utm_content%3Dqa_doha_tactical_eng_email_all_en_20170808_packages%26utm_term%3Dcr1_20170808)
+#The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For #more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
